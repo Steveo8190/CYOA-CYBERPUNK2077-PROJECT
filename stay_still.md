@@ -1,3 +1,3 @@
 you wait you dont wanna get chaught
-[keep moving foward](stairs)
+[keep moving foward](stairs.md.)
 
