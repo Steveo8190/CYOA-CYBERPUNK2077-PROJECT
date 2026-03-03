@@ -1,2 +1,2 @@
 you move to cover you dont wanna get chuaght
-[keep going foward](stairs.md.)
+[keep going foward](stairs.md)

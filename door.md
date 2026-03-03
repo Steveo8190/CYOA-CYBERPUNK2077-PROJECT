@@ -1,2 +1,2 @@
 you face a door you feel that you wait for the fight had ended...
-[open](fight_villain)
+[open](fight_villain.md)
