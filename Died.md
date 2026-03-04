@@ -1,2 +1,2 @@
 try again
-[reset](../../Bar.md)
+[reset](Bar.md)
