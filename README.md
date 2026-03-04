@@ -1,2 +1,2 @@
 # CYOA-CYBERPUNK2077-PROJECT
-
+[start](bar.md)
