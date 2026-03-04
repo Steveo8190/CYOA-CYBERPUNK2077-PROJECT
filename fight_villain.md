@@ -1,3 +1,3 @@
 You fight the adam smasher you fight and fight and you feel every blow you know that you not strong enough to beat him ....
-[weapon](Good ending.md)
+[weapon](Good_ending.md)
 [no weapon](true_ending.md)
