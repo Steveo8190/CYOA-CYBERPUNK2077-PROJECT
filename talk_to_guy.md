@@ -1,2 +1,2 @@
 You head right and find a strange man he looks at you stateing he knows what your here for
-[ask for weapon](recieve_weapon.md)
+[ask for weapon](Recieve_weapon.md)
