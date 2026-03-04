@@ -1,3 +1,3 @@
 You reach the stairs however you hear many people talking you need to hurry tho...
 [wait](go_up.md)
-[go up](died.md)
+[go up](Died.md)
